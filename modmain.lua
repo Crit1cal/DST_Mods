@@ -6,7 +6,7 @@ local STRINGS = GLOBAL.STRINGS
 
 local baseballbat = AddRecipe("baseballbat", {Ingredient("rope", 2), Ingredient("cutstone", 6)}, GLOBAL.RECIPETABS.WAR, GLOBAL.TECH.ONE, nil, nil, nil, nil, nil, "images/inventoryimages/baseballbat.xml")
 
-STRINGS.NAMES.baseballbat = "Baseballbatdsdsdsdsdsdsadsadasdasd"
+STRINGS.NAMES.baseballbat = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
 STRINGS.NAMES.BASEBALLBAT = "Baseballbat"
 STRINGS.RECIPE_DESC.baseballbat = "Hit everything with Baseballbat!!!"
 STRINGS.RECIPE_DESC.BASEBALLBAT = "Hit everything with Baseballbat!!!"
